@@ -63,6 +63,15 @@ Follow these steps to clean your Git repository and remove sensitive information
 - [BFG Repo-Cleaner Documentation](https://rtyley.github.io/bfg-repo-cleaner/)
 - [GitGuardian](https://www.gitguardian.com/)
 
+
+### Tips for Users
+
+- Make sure to replace placeholders such as `yourusername` and `your-repo` with actual repository details.
+- Test the provided scripts in a safe environment before applying them to important repositories.
+- Regularly check and update your repository's security measures to prevent accidental exposure of sensitive information.
+
+By providing these resources and guidance, your repository will be a valuable tool for anyone needing to clean up their Git history and protect sensitive data.
+
 ## Conclusion
 
 Accidentally committing sensitive information is a common mistake, but tools like BFG Repo-Cleaner make it easier to rectify. By following the steps outlined in this guide, you can effectively clean your Git history and secure your repository. If you encounter issues, refer to the BFG Repo-Cleaner documentation or the relevant GitHub issues for further assistance.
