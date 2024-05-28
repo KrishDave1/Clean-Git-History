@@ -17,7 +17,7 @@ Follow these steps to clean your Git repository and remove sensitive information
 ### Prerequisites
 
 - Ensure you have Java installed on your system.
-- Download BFG Repo-Cleaner from [here](https://rtyley.github.io/bfg-repo-cleaner/).
+- Download BFG Repo-Cleaner from [here](https://rtyley.github.io/bfg-repo-cleaner/) or directly from my repo.
 
 ### Step-by-Step Guide
 
